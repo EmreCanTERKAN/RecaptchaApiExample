@@ -1,6 +1,0 @@
-@RecaptchaApiExample_HostAddress = http://localhost:5181
-
-GET {{RecaptchaApiExample_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
